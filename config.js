@@ -1,1 +1,1 @@
-export const API_PATH = "https://test.ipdb.io/api/v1/";
+export const API_PATH = "http://localhost:9984/api/v1/";
